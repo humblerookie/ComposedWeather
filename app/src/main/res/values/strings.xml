@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="sunrise_label">Sunrise</string>
+    <string name="sunset_label">Sunset</string>
+    <string name="visibility_label">Visibility</string>
+    <string name="uv_label">UV Index</string>
+</resources>
